@@ -32,5 +32,8 @@ Running the tests:
 You can run the test directly from the SoapUI tool.
 
 
+Summary:
+All the variables and url resources are stored in the testsuite level. When designing more tests, we can change variables easily on the testsuite level so that it increases the scalability of solution. And the verification and validation methods or business logic are stored in each test steps which can be flexiable to maintain and recycle the code in future.
+
 Author:
 Furong(Don) Huang
