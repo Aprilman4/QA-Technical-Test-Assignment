@@ -25,10 +25,6 @@ End
 
 And Negative test case only has one step (Request 1), it verifies the reponse is empty.
 
-
-Notice:
-Due to the some giving resources are the same, each step make sure to choose the right resource/method. In default, the downloading file imported in Soup UI, GET Step and DELETE Step have to choose right resource/Method to run.
-
 Running the tests:
 You can run the test directly from the SoapUI tool.
 
