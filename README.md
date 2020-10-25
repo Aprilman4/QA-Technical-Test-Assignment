@@ -17,8 +17,6 @@ GET step: get data according to the expected userId and verify the searching res
 
 POST step: create data and verify created data with expected data, REST service response status, valid HTTP Status Codes and service response time.
 
-Property Transfer step: pass the POST step of response id and store it to the testSuite level variable ID. 
-
 PUT step: update data and verify created data with expected data, REST service response status, valid HTTP Status Codes and service response time.
 
 DELETE step: delete data according to the testSuite level variable ID
