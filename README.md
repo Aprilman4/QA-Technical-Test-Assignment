@@ -30,7 +30,7 @@ Running the tests:
 You can run the test directly from the SoapUI tool.
 
 Notice:
-
+Due to the some giving resources are the same, each step make sure to choose the right resource/method. In default, the downloading file imported in Soup UI, GET Step and DELETE Step have to choose right resource/Method to run.
 
 Summary:
 All the variables and url resources are stored in the testsuite level. When designing more tests, we can change variables easily on the testsuite level so that it increases the scalability of solution. And the verification and validation methods or business logic are stored in each test steps which can be flexiable to maintain and recycle the code in future.
