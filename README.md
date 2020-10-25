@@ -13,9 +13,9 @@ There will be only one project (REST Project 2), one testsuite (TestSuite) and t
 
 GETALL step: get all the data through REST service and verify REST service response status, valid HTTP Status Codes and service response time.
 
-GET step: get data according to the expected userId and verify the searching results which have the same userId, valid HTTP Status Codes and service response. time
-
 POST step: create data and verify created data with expected data, REST service response status, valid HTTP Status Codes and service response time.
+
+GET step: get data according to the expected userId and verify the searching results which have the same userId, valid HTTP Status Codes and service response. time
 
 PUT step: update data and verify created data with expected data, REST service response status, valid HTTP Status Codes and service response time.
 
